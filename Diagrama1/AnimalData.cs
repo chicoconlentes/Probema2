@@ -8,5 +8,8 @@ namespace Diagrama1
 {
     class AnimalData
     {
+        public string Name()
+        {
+        }
     }
 }
